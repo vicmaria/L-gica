@@ -1,5 +1,5 @@
 
-//Trabelho de Anaísa Forti e Victoria Rodrigues
+//Trabalho de Anaísa Forti e Victoria Rodrigues
 
 #include <stdio.h>
 
