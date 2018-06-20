@@ -1,3 +1,5 @@
+//Trabalho de Anaísa Forti e Victoria Rodrigues
+
 #include <stdio.h>
 
 void ImprimeRelacoes(int n, FILE *arq)
